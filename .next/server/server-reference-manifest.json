@@ -1,0 +1,14 @@
+{
+  "node": {
+    "cefea84eeac81fb062dc66daecbec78d41fb9bc0": {
+      "workers": {
+        "app/(payload)/admin/[[...segments]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fcoddletechnologies%2FDocuments%2Fpayload-3.0-git%2Fnode_modules%2F%40payloadcms%2Fnext%2Fdist%2Flayouts%2FRoot%2Findex.js%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(payload)/admin/[[...segments]]/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "2hB50C1DociscAeN4lXcPMkklSe9cs0dCg/xgWhv7YU="
+}
