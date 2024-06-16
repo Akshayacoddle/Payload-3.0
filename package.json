@@ -19,6 +19,7 @@
     "node": "^18.20.2 || >=20.9.0"
   },
   "dependencies": {
+    "@material-tailwind/react": "^2.1.9",
     "@payloadcms/db-mongodb": "3.0.0-beta.43",
     "@payloadcms/db-postgres": "3.0.0-beta.43",
     "@payloadcms/next": "3.0.0-beta.43",

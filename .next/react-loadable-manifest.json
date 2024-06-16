@@ -36,6 +36,13 @@
       "static/chunks/_app-pages-browser_node_modules_payloadcms_richtext-lexical_dist_field_Field_js.js"
     ]
   },
+  "../node_modules/@payloadcms/richtext-slate/dist/field/index.js -> ./RichText.js": {
+    "id": "../node_modules/@payloadcms/richtext-slate/dist/field/index.js -> ./RichText.js",
+    "files": [
+      "static/css/_app-pages-browser_node_modules_payloadcms_richtext-slate_dist_field_RichText_js.css",
+      "static/chunks/_app-pages-browser_node_modules_payloadcms_richtext-slate_dist_field_RichText_js.js"
+    ]
+  },
   "../node_modules/@payloadcms/translations/dist/importDateFNSLocale.js -> date-fns/locale/ar": {
     "id": "../node_modules/@payloadcms/translations/dist/importDateFNSLocale.js -> date-fns/locale/ar",
     "files": [

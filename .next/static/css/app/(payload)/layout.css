@@ -1,3 +1,35 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-lexical/dist/field/features/migrations/lexicalPluginToLexical/nodes/unknownConvertedNode/index.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+span.unknownConverted {
+  text-transform: uppercase;
+  font-family: "Roboto Mono", monospace;
+  letter-spacing: 2px;
+  font-size: calc(var(--base) * 0.5);
+  margin: 0 0 var(--base);
+  background: red;
+  color: white;
+  display: inline-block;
+}
+span.unknownConverted div {
+  background: red;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-lexical/dist/field/features/migrations/slateToLexical/nodes/unknownConvertedNode/index.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+span.unknownConverted {
+  text-transform: uppercase;
+  font-family: "Roboto Mono", monospace;
+  letter-spacing: 2px;
+  font-size: calc(var(--base) * 0.5);
+  margin: 0 0 var(--base);
+  background: red;
+  color: white;
+  display: inline-block;
+}
+span.unknownConverted div {
+  background: red;
+}
 /*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[10].use[3]!./node_modules/@payloadcms/next/dist/prod/styles.css ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************/
@@ -809,38 +841,6 @@ html[data-theme=light] .link-editor {
 .link-editor .link-trash {
   background-image: url(/_next/static/media/index.da5eed75.svg);
 }
-/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-lexical/dist/field/features/migrations/lexicalPluginToLexical/nodes/unknownConvertedNode/index.scss ***!
-  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
-span.unknownConverted {
-  text-transform: uppercase;
-  font-family: "Roboto Mono", monospace;
-  letter-spacing: 2px;
-  font-size: calc(var(--base) * 0.5);
-  margin: 0 0 var(--base);
-  background: red;
-  color: white;
-  display: inline-block;
-}
-span.unknownConverted div {
-  background: red;
-}
-/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-lexical/dist/field/features/migrations/slateToLexical/nodes/unknownConvertedNode/index.scss ***!
-  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
-span.unknownConverted {
-  text-transform: uppercase;
-  font-family: "Roboto Mono", monospace;
-  letter-spacing: 2px;
-  font-size: calc(var(--base) * 0.5);
-  margin: 0 0 var(--base);
-  background: red;
-  color: white;
-  display: inline-block;
-}
-span.unknownConverted div {
-  background: red;
-}
 /*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-lexical/dist/field/features/relationship/nodes/components/index.scss ***!
   \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
@@ -1311,6 +1311,453 @@ html[data-theme=light] .inline-toolbar-popup {
 @media (max-width: 768px) {
   .lexical-upload__topRowRightPanel {
     padding: calc(var(--base) * 0.75) calc(var(--base) * 0.5);
+  }
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/blockquote/index.scss ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.rich-text-blockquote[data-slate-node=element] {
+  margin: 1.2019230769rem 0;
+  padding-left: 1.2019230769rem;
+  border-left: 1px solid var(--theme-elevation-200);
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/buttons.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.rich-text__button {
+  position: relative;
+  cursor: pointer;
+}
+.rich-text__button svg {
+  width: 1.4423076923rem;
+  height: 1.4423076923rem;
+}
+.rich-text__button--disabled {
+  opacity: 0.4;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/icons/IndentLeft/index.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.icon--indent-left {
+  height: 1.9230769231rem;
+  width: 1.9230769231rem;
+}
+.icon--indent-left .stroke {
+  fill: none;
+  stroke: var(--theme-elevation-800);
+  stroke-width: 2px;
+}
+.icon--indent-left .fill {
+  fill: var(--theme-elevation-800);
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/icons/IndentRight/index.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.icon--indent-right {
+  height: 1.9230769231rem;
+  width: 1.9230769231rem;
+}
+.icon--indent-right .stroke {
+  fill: none;
+  stroke: var(--theme-elevation-800);
+  stroke-width: 2px;
+}
+.icon--indent-right .fill {
+  fill: var(--theme-elevation-800);
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/icons/Link/index.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.icon--link {
+  width: 1.9230769231rem;
+  height: 1.9230769231rem;
+}
+.icon--link .stroke {
+  stroke: var(--theme-elevation-800);
+  stroke-width: 1px;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/link/LinkDrawer/index.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.rich-text-link-edit-modal__template {
+  position: relative;
+  z-index: 1;
+  padding-top: 1.9230769231rem;
+  padding-bottom: 3.8461538462rem;
+}
+.rich-text-link-edit-modal__header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4.8076923077rem;
+  margin-bottom: 1.9230769231rem;
+}
+@media (max-width: 1024px) {
+  .rich-text-link-edit-modal__header {
+    margin-top: 2.8846153846rem;
+  }
+}
+.rich-text-link-edit-modal__header-text {
+  margin: 0;
+}
+.rich-text-link-edit-modal__header-close {
+  border: 0;
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+  overflow: hidden;
+  width: 1.9230769231rem;
+  height: 1.9230769231rem;
+}
+.rich-text-link-edit-modal__header-close svg {
+  width: 5.2884615385rem;
+  height: 5.2884615385rem;
+  position: relative;
+  left: -1.5865384615rem;
+  top: -1.5865384615rem;
+}
+.rich-text-link-edit-modal__header-close svg .stroke {
+  stroke-width: 2px;
+  vector-effect: non-scaling-stroke;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/link/Element/index.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.rich-text-link__popup {
+  font-size: 13px;
+  line-height: 25px;
+  font-weight: normal;
+}
+
+.rich-text-link__popup button {
+  border: 0;
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 0;
+  color: currentColor;
+}
+
+.rich-text-link {
+  position: relative;
+  text-decoration: underline;
+}
+.rich-text-link .popup {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rich-text-link .popup .popup__hide-scrollbar,
+.rich-text-link .popup .popup__scroll-container {
+  overflow: visible;
+}
+.rich-text-link .popup .popup__scroll-content {
+  white-space: pre;
+}
+.rich-text-link .icon--x line {
+  stroke-width: 2px;
+}
+.rich-text-link__popup {
+  font-family: var(--font-body);
+  display: flex;
+}
+.rich-text-link__popup button {
+  font-weight: 600;
+  cursor: pointer;
+  margin: 0;
+}
+.rich-text-link__popup button:hover, .rich-text-link__popup button:focus-visible {
+  text-decoration: underline;
+}
+.rich-text-link__link-label {
+  max-width: 15.3846153846rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 2px;
+}
+.rich-text-link__link-label:hover {
+  background-color: var(--popup-button-highlight);
+}
+
+.rich-text-link__popup {
+  display: flex;
+  gap: calc(var(--base) * 0.25);
+}
+.rich-text-link__popup button:hover .btn__icon {
+  background-color: var(--popup-button-highlight);
+}
+.rich-text-link__popup button:hover .btn__icon .fill {
+  fill: var(--theme-text);
+}
+.rich-text-link__popup button:hover .btn__icon .stroke {
+  stroke: var(--theme-text);
+}
+
+.rich-text-link__popup-toggler {
+  position: relative;
+  border: 0;
+  background-color: transparent;
+  padding: 0;
+  text-decoration: underline;
+  cursor: text;
+}
+.rich-text-link__popup-toggler:focus, .rich-text-link__popup-toggler:focus-within {
+  outline: none;
+}
+.rich-text-link__popup-toggler--open {
+  z-index: var(--z-popup);
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/ol/index.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.rich-text-ol[data-slate-node=element] {
+  margin: 1.2019230769rem 0;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/icons/Relationship/index.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.icon--relationship {
+  height: 1.9230769231rem;
+  width: 1.9230769231rem;
+}
+.icon--relationship .stroke {
+  fill: none;
+  stroke: var(--theme-elevation-800);
+  stroke-width: 2px;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/relationship/Button/index.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.relationship-rich-text-button {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/relationship/Element/index.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.rich-text-relationship {
+  font-size: 13px;
+  line-height: 25px;
+  font-weight: normal;
+  box-shadow: 0 2px 3px 0 rgba(0, 2, 4, 0.05), 0 10px 4px -8px rgba(0, 2, 4, 0.02);
+  padding: 1.4423076923rem;
+  display: flex;
+  align-items: center;
+  background: var(--theme-input-bg);
+  border: 1px solid var(--theme-elevation-100);
+  max-width: 28.8461538462rem;
+  font-family: var(--font-body);
+}
+.rich-text-relationship:hover {
+  border: 1px solid var(--theme-elevation-150);
+}
+.rich-text-relationship[data-slate-node=element] {
+  margin: 1.2019230769rem 0;
+}
+.rich-text-relationship__label {
+  margin-bottom: 0.4807692308rem;
+}
+.rich-text-relationship__title {
+  margin: 0;
+}
+.rich-text-relationship__label, .rich-text-relationship__title {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  line-height: 1 !important;
+}
+.rich-text-relationship__title {
+  font-weight: bold;
+}
+.rich-text-relationship__wrap {
+  flex-grow: 1;
+  overflow: hidden;
+}
+.rich-text-relationship--selected {
+  box-shadow: 0 0 0 2px var(--theme-success-500);
+  outline: none;
+}
+.rich-text-relationship .rich-text-relationship__doc-drawer-toggler {
+  text-decoration: underline;
+  pointer-events: all;
+  line-height: inherit;
+}
+.rich-text-relationship__actions {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  margin-left: 0.9615384615rem;
+}
+.rich-text-relationship__actions > *:not(:last-child) {
+  margin-right: 0.4807692308rem;
+}
+.rich-text-relationship__removeButton {
+  margin: 0;
+}
+.rich-text-relationship__removeButton line {
+  stroke-width: 2px;
+}
+.rich-text-relationship__removeButton:disabled {
+  color: var(--theme-elevation-300);
+  pointer-events: none;
+}
+.rich-text-relationship__doc-drawer-toggler > *, .rich-text-relationship__list-drawer-toggler > * {
+  margin: 0;
+}
+.rich-text-relationship__doc-drawer-toggler:disabled, .rich-text-relationship__list-drawer-toggler:disabled {
+  color: var(--theme-elevation-300);
+  pointer-events: none;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/ul/index.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.rich-text-ul[data-slate-node=element] {
+  margin: 1.2019230769rem 0;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/icons/Upload/index.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.icon--upload {
+  height: 1.9230769231rem;
+  width: 1.9230769231rem;
+}
+.icon--upload .fill {
+  fill: var(--theme-elevation-800);
+  stroke: none;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/upload/Button/index.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.upload-rich-text-button {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[11].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[11].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[11].use[5]!./node_modules/@payloadcms/richtext-slate/dist/field/elements/upload/Element/index.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.rich-text-upload {
+  font-size: 13px;
+  line-height: 25px;
+  font-weight: normal;
+  box-shadow: 0 2px 3px 0 rgba(0, 2, 4, 0.05), 0 10px 4px -8px rgba(0, 2, 4, 0.02);
+  max-width: 28.8461538462rem;
+  display: flex;
+  align-items: center;
+  background: var(--theme-input-bg);
+  border: 1px solid var(--theme-elevation-100);
+  position: relative;
+  font-family: var(--font-body);
+}
+.rich-text-upload:hover {
+  border: 1px solid var(--theme-elevation-150);
+}
+.rich-text-upload[data-slate-node=element] {
+  margin: 1.2019230769rem 0;
+}
+.rich-text-upload__card {
+  box-shadow: 0 7px 14px 0px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.rich-text-upload__topRow {
+  display: flex;
+}
+.rich-text-upload__thumbnail {
+  width: 6.25rem;
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.rich-text-upload__thumbnail img,
+.rich-text-upload__thumbnail svg {
+  position: absolute;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 100%;
+  background-color: var(--theme-elevation-800);
+}
+.rich-text-upload__topRowRightPanel {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  padding: 1.4423076923rem;
+  justify-content: space-between;
+  max-width: calc(100% - 6.25rem);
+}
+.rich-text-upload__actions {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  margin-left: 0.9615384615rem;
+}
+.rich-text-upload__actions .rich-text-upload__doc-drawer-toggler {
+  pointer-events: all;
+}
+.rich-text-upload__actions > *:not(:last-child) {
+  margin-right: 0.4807692308rem;
+}
+.rich-text-upload__removeButton {
+  margin: 0;
+}
+.rich-text-upload__removeButton line {
+  stroke-width: 2px;
+}
+.rich-text-upload__removeButton:disabled {
+  color: var(--theme-elevation-300);
+  pointer-events: none;
+}
+.rich-text-upload__upload-drawer-toggler {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  line-height: inherit;
+}
+.rich-text-upload__doc-drawer-toggler {
+  text-decoration: underline;
+}
+.rich-text-upload__doc-drawer-toggler > *, .rich-text-upload__list-drawer-toggler > *, .rich-text-upload__upload-drawer-toggler > * {
+  margin: 0;
+}
+.rich-text-upload__doc-drawer-toggler:disabled, .rich-text-upload__list-drawer-toggler:disabled, .rich-text-upload__upload-drawer-toggler:disabled {
+  color: var(--theme-elevation-300);
+  pointer-events: none;
+}
+.rich-text-upload__collectionLabel {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.rich-text-upload__bottomRow {
+  padding: 0.9615384615rem;
+  border-top: 1px solid var(--theme-elevation-100);
+}
+.rich-text-upload h5 {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.rich-text-upload__wrap {
+  padding: 0.9615384615rem 0.9615384615rem 0.9615384615rem 1.9230769231rem;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.rich-text-upload--selected {
+  box-shadow: 0 0 0 2px var(--theme-success-500);
+  outline: none;
+}
+@media (max-width: 768px) {
+  .rich-text-upload__topRowRightPanel {
+    padding: 1.4423076923rem 0.9615384615rem;
   }
 }
 /*!***********************************************************************************************************************************************************************************************************************************************************************!*\
@@ -1819,24 +2266,198 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
-.bg-gray-100 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+.mb-4 {
+  margin-bottom: 1rem;
+}
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+.mb-8 {
+  margin-bottom: 2rem;
+}
+.flex {
+  display: flex;
+}
+.grid {
+  display: grid;
+}
+.h-7 {
+  height: 1.75rem;
+}
+.w-7 {
+  width: 1.75rem;
+}
+.max-w-screen-sm {
+  max-width: 640px;
+}
+.max-w-screen-xl {
+  max-width: 1280px;
+}
+.items-center {
+  align-items: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.gap-8 {
+  gap: 2rem;
+}
+.space-x-4 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 0;
+  margin-right: calc(1rem * var(--tw-space-x-reverse));
+  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.border {
+  border-width: 1px;
+}
+.border-gray-200 {
+  --tw-border-opacity: 1;
+  border-color: rgb(229 231 235 / var(--tw-border-opacity));
 }
 .bg-green-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(34 197 94 / var(--tw-bg-opacity));
 }
+.bg-red-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 226 226 / var(--tw-bg-opacity));
+}
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
 .p-4 {
   padding: 1rem;
+}
+.p-6 {
+  padding: 1.5rem;
+}
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.text-center {
+  text-align: center;
+}
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-extrabold {
+  font-weight: 800;
+}
+.font-light {
+  font-weight: 300;
+}
+.font-medium {
+  font-weight: 500;
+}
+.tracking-tight {
+  letter-spacing: -0.025em;
+}
+.text-gray-500 {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+.text-gray-900 {
+  --tw-text-opacity: 1;
+  color: rgb(17 24 39 / var(--tw-text-opacity));
 }
 .text-green-100 {
   --tw-text-opacity: 1;
   color: rgb(220 252 231 / var(--tw-text-opacity));
 }
+.shadow-md {
+  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
 .blur {
   --tw-blur: blur(8px);
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+@media (min-width: 640px) {
+
+  .sm\:text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+}
+@media (min-width: 1024px) {
+
+  .lg\:mb-16 {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .lg\:py-16 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+  .lg\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+}
+@media (prefers-color-scheme: dark) {
+
+  .dark\:border-gray-700 {
+    --tw-border-opacity: 1;
+    border-color: rgb(55 65 81 / var(--tw-border-opacity));
+  }
+
+  .dark\:bg-gray-800 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+  }
+
+  .dark\:bg-gray-900 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+  }
+
+  .dark\:text-gray-400 {
+    --tw-text-opacity: 1;
+    color: rgb(156 163 175 / var(--tw-text-opacity));
+  }
+
+  .dark\:text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+  }
 }
 
 /*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\

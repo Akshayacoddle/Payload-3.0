@@ -1,7 +1,7 @@
-import path from 'path'
+import path from "path";
 // import { postgresAdapter } from '@payloadcms/db-postgres'
-import { en } from 'payload/i18n/en'
-import demo from '@/components/demo'
+import { en } from "payload/i18n/en";
+import demo from "@/components/demo";
 import {
   AlignFeature,
   BlockquoteFeature,
@@ -19,73 +19,46 @@ import {
   RelationshipFeature,
   UnorderedListFeature,
   UploadFeature,
-} from '@payloadcms/richtext-lexical'
+} from "@payloadcms/richtext-lexical";
 //import { slateEditor } from '@payloadcms/richtext-slate'
-import { mongooseAdapter } from '@payloadcms/db-mongodb'
-import { buildConfig } from 'payload/config'
-import sharp from 'sharp'
-import { fileURLToPath } from 'url'
+import { mongooseAdapter } from "@payloadcms/db-mongodb";
+import { buildConfig } from "payload/config";
+import sharp from "sharp";
+import { fileURLToPath } from "url";
+import Users from "@/app/collection/users";
+import { Media } from "@/app/collection/Media";
+import { AboutHeroBlock } from "@/app/collection/AboutHeroBlock";
 
-const filename = fileURLToPath(import.meta.url)
-const dirname = path.dirname(filename)
+const filename = fileURLToPath(import.meta.url);
+const dirname = path.dirname(filename);
 
 export default buildConfig({
   //editor: slateEditor({}),
   editor: lexicalEditor(),
   collections: [
+    Users,
+    Media,
+    AboutHeroBlock,
     {
-      slug: 'users',
-      auth: true,
-      access: {
-        delete: () => false,
-        update: () => false,
-      },
-      fields: [
-        {
-          name: 'test',
-          type: 'ui',
-          admin: {
-            components: {
-              Field: demo,
-            },
-          },
-        },
-        {
-          name: 'second',
-          type: 'checkbox',
-        },
-      ],
-    },
-    {
-      slug: 'pages',
+      slug: "pages",
       admin: {
-        useAsTitle: 'title',
+        useAsTitle: "title",
       },
       fields: [
         {
-          name: 'title',
-          type: 'text',
+          name: "title",
+          type: "text",
         },
         {
-          name: 'content',
-          type: 'richText',
-        },
-      ],
-    },
-    {
-      slug: 'media',
-      upload: true,
-      fields: [
-        {
-          name: 'text',
-          type: 'text',
+          name: "content",
+          type: "richText",
         },
       ],
     },
   ],
-  secret: process.env.PAYLOAD_SECRET || '',
+  secret: process.env.PAYLOAD_SECRET || "",
   typescript: {
-    outputFile: path.resolve(dirname, 'payload-types.ts'),
+    outputFile: path.resolve(dirname, "payload-types.ts"),
   },
   // db: postgresAdapter({
   //   pool: {
@@ -93,7 +66,7 @@ export default buildConfig({
   //   }
   // }),
   db: mongooseAdapter({
-    url: process.env.MONGODB_URI || '',
+    url: process.env.MONGODB_URI || "",
   }),
 
   /**
@@ -106,25 +79,25 @@ export default buildConfig({
 
   admin: {
     autoLogin: {
-      email: 'dev@payloadcms.com',
-      password: 'test',
+      email: "dev@payloadcms.com",
+      password: "test",
       prefillOnly: true,
     },
   },
   async onInit(payload) {
     const existingUsers = await payload.find({
-      collection: 'users',
+      collection: "users",
       limit: 1,
-    })
+    });
 
     if (existingUsers.docs.length === 0) {
       await payload.create({
-        collection: 'users',
+        collection: "users",
         data: {
-          email: 'dev@payloadcms.com',
-          password: 'test',
+          email: "dev@payloadcms.com",
+          password: "test",
         },
-      })
+      });
     }
   },
   // Sharp is now an optional dependency -
@@ -134,4 +107,4 @@ export default buildConfig({
   // This is temporary - we may make an adapter pattern
   // for this before reaching 3.0 stable
   sharp,
-})
+});
