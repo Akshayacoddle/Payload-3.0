@@ -32,7 +32,7 @@ const Page = async () => {
                     <a href="#">{"user.heading"}</a>
                   </h2>
                   <p className="mb-5 font-light text-gray-500 dark:text-gray-400">
-                    "{user.description}"
+                    {"user.description"}
                   </p>
                   <div className="flex justify-between items-center">
                     <div className="flex items-center space-x-4">
