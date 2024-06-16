@@ -4,7 +4,6 @@ import Link from "next/link";
 import React from "react";
 import { getPayloadHMR } from "@payloadcms/next/utilities";
 import configPromise from "@payload-config";
-import { Button, Typography } from "@material-tailwind/react";
 const Page = async () => {
   const payload = await getPayloadHMR({ config: configPromise });
 
@@ -30,10 +29,10 @@ const Page = async () => {
               <div className="grid gap-8 lg:grid-cols-2">
                 <article className="p-6 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                   <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                    <a href="#">{user.heading}</a>
+                    <a href="#">{"user.heading"}</a>
                   </h2>
                   <p className="mb-5 font-light text-gray-500 dark:text-gray-400">
-                    {user.description}
+                    "{user.description}"
                   </p>
                   <div className="flex justify-between items-center">
                     <div className="flex items-center space-x-4">
