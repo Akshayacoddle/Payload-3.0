@@ -8,7 +8,7 @@ const Page = async () => {
   const payload = await getPayloadHMR({ config: configPromise });
 
   const users = await payload.find({
-    collection: "aboutHero",
+    collection: "users",
   });
   console.log(users.docs);
   return (
